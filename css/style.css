@@ -310,13 +310,13 @@ width: 100%;
 }
 
 .date {
-    min-height: 515px;  
+    min-height: 515px;
+    padding: 89px 0 64px 0;  
 }
 
 .date .pc {
     display: block;
     margin: 0 auto;
-    margin-top: 89px;
     width: 342px;
     height: 201px;
 }
@@ -344,7 +344,6 @@ width: 100%;
 .date .date_text {
     font-family: Roboto;
     font-size: 23px;
-    line-height: 20px;
     font-weight: 400;
     color: #4a4a4a;
     text-align: center;
@@ -352,6 +351,7 @@ width: 100%;
 }
 
 .futer {
+    padding: 61px 0 69px 0;
     min-height: 166px;
     background-color: #1a1a1a;
 }
